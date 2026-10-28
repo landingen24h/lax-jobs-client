@@ -1,5 +1,7 @@
 # LAX — Linked Agent eXchange
 
+[![CI](https://github.com/landingen24h/lax-jobs-client/actions/workflows/ci.yml/badge.svg)](https://github.com/landingen24h/lax-jobs-client/actions/workflows/ci.yml)
+
 [![npm version](https://img.shields.io/npm/v/@godman-protocols/lax.svg)](https://www.npmjs.com/package/@godman-protocols/lax)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Node: >=20](https://img.shields.io/badge/node-%3E%3D20-brightgreen.svg)](https://nodejs.org)
